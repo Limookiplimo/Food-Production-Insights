@@ -10,4 +10,4 @@ Processing the dataset was done using spark. Transformations carried out on the 
 ## Vizualizations
 Further analysis and vizualizations was done using tableau. Check the complete viz [here](https://public.tableau.com/app/profile/kiplimo.cornelius/viz/AgriculturalProduction_16869066982260/AgriculturalProduction)
 
-![The Viz](static/viz.jpeg)
+[The flow](static/viz.jpeg)
