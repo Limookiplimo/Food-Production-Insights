@@ -8,6 +8,6 @@ Food and Agricultural Organization collects and provides access to global data a
 Processing the dataset was done using spark. Transformations carried out on the data included cleaning, wrangling, feature enrichment as well as validations. Pandas API on pyspark ws also used.
 
 ## Vizualizations
-Further analysis and vizualizations was done using tableau. Check the complete viz [here](https://public.tableau.com/app/profile/kiplimo.cornelius/viz/AgriculturalProduction_16869066982260/AgriculturalProduction)
+Further analysis and vizualizations was done using tableau. Check the complete viz [here](https://public.tableau.com/app/profile/kiplimo.cornelius/viz/AgriculturalProduction_16869066982260/AgriculturalProduction). 
 
-[The flow](static/viz.jpeg)
+![The flow](static/viz.jpeg)
